@@ -10,3 +10,4 @@ int main()
     printf("%.3f",result);
     return 0;
 }
+
